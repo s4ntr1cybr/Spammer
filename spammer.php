@@ -117,9 +117,9 @@ echo $green."
 ╚═╝┴  ┴ ┴┴ ┴  ╚═╝┴ ┴┴─┘┴─┘\n".$blue.
 "Spammer Grab";
 echo $red."
-[!] Author   : Mr.yM						[!]
-[!] Youtube  : www.youtube.com/MAULANARyM   [!]
-[!] github   : github.com/MaulanaRyM        [!]\n";
+[!] Author   : S4NTR1CYBR						[!]
+[!] E mail   : s4ntr1cybr@gmail.com   [!]
+[!] github   : github.com/s4ntr1cybr        [!]\n";
 echo $green."
 ======================================
 |[!]  Thanks To Army Cyber Network [!]|
@@ -132,7 +132,7 @@ echo "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n";
 echo " \n";
 echo " \n";
 sleep ('0.4');
-echo "root@.Mr.yM=# Masukan No Hp Target #-> ";
+echo "root@.s4ntr1cybr=# Masukan No Hp Target #-> ";
 $no = get();
 $n = new prankCall($no);
 $n->run();
